@@ -1,0 +1,113 @@
+commit f8fa7d2d262eefcccc20f78202ae26caf64fd9c3
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 17:05:29 2022 +0200
+
+    poistettu file1 ja file2 uudelleennimetty tiedostoksi file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 3e47616f41f02277f204d1e71ebe1e1ff984bd64
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:59:27 2022 +0200
+
+    lisätty kansio tiedostoja ja sen sisälle tiedostot file1, file2 ja file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 786ceb1edab56d253087f1658cd6a3ff90c6fa24
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:44:09 2022 +0200
+
+    muutettu tiedostoja eka.txt ja kolmas.txt
+
+ eka.txt    | 18 +++++++++++-------
+ kolmas.txt |  4 +++-
+ 2 files changed, 14 insertions(+), 8 deletions(-)
+
+commit 997f663dc5b01d849d2fb81a23a5de69a63ae17d
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:41:00 2022 +0200
+
+    tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 47af2cd816ed40f26203089069048003eb7f5eba
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:38:04 2022 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 74a651f37b40ef60aed61ae2e7e7aca8622a9212
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:34:43 2022 +0200
+
+    muutettu tiedostoa tiedosto.txt
+
+ tiedosto.txt | 7 +------
+ 1 file changed, 1 insertion(+), 6 deletions(-)
+
+commit e95d1349f880bd12589e93b48bf511b667398b3b
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:33:13 2022 +0200
+
+    lisätty tekstiä tiedostoon tiedosto.txt
+
+ tiedosto.txt | 730 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 730 insertions(+)
+
+commit 6c4feb985880f7e50978605859b012b79dc78d51
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:28:44 2022 +0200
+
+    luotu hakemisto stuff ja sen sisälle tiedosto
+
+ stuff/tiedosto | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 8f8ac49745dbf8ca0e0f13f2b9824526557050d3
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:26:56 2022 +0200
+
+    muutettu tiedostoja toinen ja kolmas
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit a1df71291bb908e97d624224969f83a9d4740c29
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:25:53 2022 +0200
+
+    lisätty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 198b47a239dde87fb6031aa7f91242972026499e
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:22:44 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit f1e44a3eb6dcb14af00c9314d7c020d758e7828b
+Author: topkex1 <117745839+topkex1@users.noreply.github.com>
+Date:   Tue Nov 8 16:21:13 2022 +0200
+
+    luotu tiedosto.txt
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

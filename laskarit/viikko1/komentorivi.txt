@@ -1,0 +1,20 @@
+.
+├── Desktop -> /home/ad/home/l/ladhieta/Desktop
+├── Documents -> /home/ad/home/l/ladhieta/Documents
+├── Downloads -> /home/ad/home/l/ladhieta/Downloads
+├── kurssit
+│   └── ot2022
+│       └── viikko1
+│           └── unicafe
+│               ├── poetry.lock
+│               ├── pyproject.toml
+│               └── src
+│                   ├── index.py
+│                   ├── kassapaate.py
+│                   ├── maksukortti.py
+│                   └── tests
+│                       ├── __init__.py
+│                       └── maksukortti_test.py
+└── treetulostus
+
+9 directories, 8 files
