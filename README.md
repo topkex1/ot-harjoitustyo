@@ -9,3 +9,7 @@
 
 [gitlog.txt](https://github.com/topkex1/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
+### Viikko 2
+
+[Laskarit](https://github.com/topkex1/ot-harjoitustyo/blob/master/laskarit/viikko2/)
+
