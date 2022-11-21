@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ot-harjoitustyö"
+version = "0.1.0"
+description = ""
+authors = ["topkex1 <117745839+topkex1@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "ot_harjoitustyö"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
