@@ -13,3 +13,7 @@
 
 [Laskarit](https://github.com/topkex1/ot-harjoitustyo/blob/master/laskarit/viikko2/)
 
+[Alustava vaatimusmäärittely](https://github.com/topkex1/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
+[Tuntikirjanpito](https://github.com/topkex1/ot-harjoitustyo/blob/master/dokumentaatio/tuntikirjanpito.md)
+
